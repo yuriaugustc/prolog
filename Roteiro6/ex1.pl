@@ -1,7 +1,5 @@
 ordinal --> s.
-ordinal(A):-
 	
-
 s --> sn.
 
 sn --> n1.
